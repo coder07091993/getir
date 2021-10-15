@@ -1,0 +1,11 @@
+.vscode
+
+.nyc_output
+
+TODO
+
+.env
+
+node_modules
+
+test/mochareport
